@@ -17,10 +17,7 @@ Here are some ideas to get you started:
 - ⌨️ 데이터분석 및 ML/DL에 관심있습니다.
 
 #### 사용 언어 및 도구
-- Python
-- R
-- Tensorflow, Keras
-- Pytorch
-- MySQL
-- Oracle
-- postgreSQL
+<img src="https://img.shields.io/badge/Python-3776AB?style=flat&logo=Python&logoColor=white" /> <img src="https://img.shields.io/badge/R-276DC3?style=flat&logo=R&logoColor=white" />
+<img src="https://img.shields.io/badge/Tensorflow-FF6F00?style=flat&logo=Tensorflow&logoColor=white" /> <img src="https://img.shields.io/badge/Keras-D00000?style=flat&logo=Keras&logoColor=white" />
+<img src="https://img.shields.io/badge/Pytorch-EE4C2C?style=flat&logo=Pytorch&logoColor=white" /> <img src="https://img.shields.io/badge/MySQL-4479A1?style=flat&logo=MySQL&logoColor=white" />
+<img src="https://img.shields.io/badge/Oracle-F80000?style=flat&logo=Oracle&logoColor=white" /> <img src="https://img.shields.io/badge/postgreSQL-4169E1?style=flat&logo=postgreSQL&logoColor=white" /> 
