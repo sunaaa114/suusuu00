@@ -1,4 +1,4 @@
-### Hi there 👋
+### 안녕하세요! 👋
 
 <!--
 **suusuu00/suusuu00** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -14,3 +14,13 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+- ⌨️ 데이터분석 및 ML/DL에 관심있습니다.
+
+#### 사용 언어 및 도구
+- Python
+- R
+- Tensorflow, Keras
+- Pytorch
+- MySQL
+- Oracle
+- postgreSQL
