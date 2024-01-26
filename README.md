@@ -1,23 +1,18 @@
-### 안녕하세요! 👋
+<div align='center'>
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=edacb1&height=200&section=header&text=SunA's%20Github!&fontSize=35" />	
+</div>
+<div align='center'>
+  <h3>안녕하세요! 데이터분석 및 ML/DL에 관심갖고 공부하고 있습니다. </h3>
+</div>
+<div align='center'>
+  <h4>사용 언어 및 도구</h4>
+  <img src="https://img.shields.io/badge/Python-3776AB?style=flat&logo=Python&logoColor=white" /> <img src="https://img.shields.io/badge/R-276DC3?style=flat&logo=R&logoColor=white" />
+  <img src="https://img.shields.io/badge/Tensorflow-FF6F00?style=flat&logo=Tensorflow&logoColor=white" /> <img src="https://img.shields.io/badge/Keras-D00000?style=flat&logo=Keras&logoColor=white" />
+  <img src="https://img.shields.io/badge/Pytorch-EE4C2C?style=flat&logo=Pytorch&logoColor=white" /> <img src="https://img.shields.io/badge/MySQL-4479A1?style=flat&logo=MySQL&logoColor=white" />
+  <img src="https://img.shields.io/badge/Oracle-F80000?style=flat&logo=Oracle&logoColor=white" /> <img src="https://img.shields.io/badge/postgreSQL-4169E1?style=flat&logo=postgreSQL&logoColor=white" /> 
+</div>
 
-<!--
-**suusuu00/suusuu00** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
-- ⌨️ 데이터분석 및 ML/DL에 관심있습니다.
-
-#### 사용 언어 및 도구
-<img src="https://img.shields.io/badge/Python-3776AB?style=flat&logo=Python&logoColor=white" /> <img src="https://img.shields.io/badge/R-276DC3?style=flat&logo=R&logoColor=white" />
-<img src="https://img.shields.io/badge/Tensorflow-FF6F00?style=flat&logo=Tensorflow&logoColor=white" /> <img src="https://img.shields.io/badge/Keras-D00000?style=flat&logo=Keras&logoColor=white" />
-<img src="https://img.shields.io/badge/Pytorch-EE4C2C?style=flat&logo=Pytorch&logoColor=white" /> <img src="https://img.shields.io/badge/MySQL-4479A1?style=flat&logo=MySQL&logoColor=white" />
-<img src="https://img.shields.io/badge/Oracle-F80000?style=flat&logo=Oracle&logoColor=white" /> <img src="https://img.shields.io/badge/postgreSQL-4169E1?style=flat&logo=postgreSQL&logoColor=white" /> 
+<div align='center'>
+  <h4>Portfolio</h4>
+  <a href="https://halved-virgo-46f.notion.site/82302f624aa742c88e3d6a4f82614170?pvs=4"><img src="https://img.shields.io/badge/Notion-000000?style=flat&logo=Notion&logoColor=white" /></a>
+</div>
