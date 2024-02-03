@@ -14,5 +14,5 @@
 
 <div align='center'>
   <h4>Portfolio</h4>
-  <a href="https://halved-virgo-46f.notion.site/82302f624aa742c88e3d6a4f82614170?pvs=4"><img src="https://img.shields.io/badge/Notion-000000?style=flat&logo=Notion&logoColor=white" /></a>
+  <a href="https://halved-virgo-46f.notion.site/310cb0bbd1354590ae6d05c59fba847e?pvs=4"><img src="https://img.shields.io/badge/Notion-000000?style=flat&logo=Notion&logoColor=white" /></a>
 </div>
